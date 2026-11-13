@@ -1,6 +1,6 @@
 [project]
 name = "tiny-ebcdic-code-page"
-version = "0.1.0"
+version = "0.1.1"
 description = "Converts text between IBM EBCDIC CP037 and Unicode."
 requires-python = ">=3.10"
 dependencies = []
